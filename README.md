@@ -1,2 +1,2 @@
-# -streaming-backend-
+# streaming-backend
 Live Chat streaming backend 
